@@ -1,0 +1,14 @@
+.circle {
+    width: 400px;
+    height: 400px;
+    background-color: #212529;
+    border-radius: 50%;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.circle:hover {
+    background-color: #6c757d99;
+}
